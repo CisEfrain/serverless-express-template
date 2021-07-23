@@ -1,0 +1,1 @@
+export { IHelloRequest,  IHelloResponse } from './hello'
